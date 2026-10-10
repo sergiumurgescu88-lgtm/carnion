@@ -1,0 +1,6 @@
+{
+  "name": "CARNION — Carmangerie Militari Residence",
+  "description": "Magazin online și vitrină carmangerie profesională CARNION în Chiajna (Ilfov), zona Militari Residence. Carne proaspătă aleasă, mezeluri artizanale, pregătire atentă și comenzi rapide pe WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

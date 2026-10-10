@@ -1,0 +1,182 @@
+[
+  {
+    "id": "rev-1",
+    "author": "Andrei Popescu",
+    "rating": 5,
+    "date": "acum 2 zile",
+    "comment": "Carnea este incredibil de fragedă și proaspătă. Se vede că este măcelărie artizanală serioasă!",
+    "verified": true,
+    "location": "Militari Residence"
+  },
+  {
+    "id": "rev-2",
+    "author": "Elena Ionescu",
+    "rating": 5,
+    "date": "acum 3 zile",
+    "comment": "Am comandat prin WhatsApp și a ajuns impecabil împachetată. Ceafa și micii sunt cei mai buni din Chiajna.",
+    "verified": true,
+    "location": "Chiajna"
+  },
+  {
+    "id": "rev-3",
+    "author": "Mihai Dumitrescu",
+    "rating": 5,
+    "date": "acum 4 zile",
+    "comment": "Cârnații au gust autentic, fără chimicale sau aditivi ciudați. Recomand cu toată încrederea!",
+    "verified": true,
+    "location": "Chiajna"
+  },
+  {
+    "id": "rev-4",
+    "author": "Raluca Stan",
+    "rating": 5,
+    "date": "acum 5 zile",
+    "comment": "Carne curată, miroase a proaspăt din momentul în care deschizi pachetul. Clienți fideli de acum înainte.",
+    "verified": true,
+    "location": "Sector 6"
+  },
+  {
+    "id": "rev-5",
+    "author": "Cristian Radu",
+    "rating": 5,
+    "date": "acum o săptămână",
+    "comment": "Măcelarul mi-a tranșat carnea exact cum am cerut la observații. Serviciu impecabil!",
+    "verified": true,
+    "location": "Militari Residence"
+  },
+  {
+    "id": "rev-6",
+    "author": "Simona Marin",
+    "rating": 5,
+    "date": "acum o săptămână",
+    "comment": "Produse excepționale, vită maturată bine și porc fraged. Mulțumim CARNION că ați deschis în zonă!",
+    "verified": true,
+    "location": "Chiajna"
+  },
+  {
+    "id": "rev-7",
+    "author": "Bogdan Vasilescu",
+    "rating": 5,
+    "date": "acum o săptămână",
+    "comment": "Micii de vită-oaie au fost vedeta grătarului din weekend. Suculenți și foarte bine condimentați.",
+    "verified": true,
+    "location": "Dudu, Ilfov"
+  },
+  {
+    "id": "rev-8",
+    "author": "Adriana Constantin",
+    "rating": 5,
+    "date": "acum 8 zile",
+    "comment": "Curățenie desăvârșită și personal foarte amabil. Puiul și mușchiul de vită sunt de nota 10.",
+    "verified": true,
+    "location": "Chiajna"
+  },
+  {
+    "id": "rev-9",
+    "author": "George Enache",
+    "rating": 5,
+    "date": "acum 9 zile",
+    "comment": "Cea mai bună carmangerie din zonă. Prețuri corecte pentru calitatea oferită.",
+    "verified": true,
+    "location": "Militari Residence"
+  },
+  {
+    "id": "rev-10",
+    "author": "Mihaela Stoica",
+    "rating": 5,
+    "date": "acum 10 zile",
+    "comment": "Comanda pe WhatsApp s-a confirmat în câteva minute. Tranșare impecabilă, fără resturi de os nedorite.",
+    "verified": true,
+    "location": "Chiajna"
+  },
+  {
+    "id": "rev-11",
+    "author": "Florin Dobre",
+    "rating": 5,
+    "date": "acum 11 zile",
+    "comment": "Cotletele de berbecuț și babicul sunt senzaționale. Gust adevărat de carmangerie tradițională.",
+    "verified": true,
+    "location": "Chiajna"
+  },
+  {
+    "id": "rev-12",
+    "author": "Ioana Matei",
+    "rating": 5,
+    "date": "acum 12 zile",
+    "comment": "Se simte diferența uriașă față de carnea din supermarket. Prospețime garantată la fiecare comandă.",
+    "verified": true,
+    "location": "Militari Residence"
+  },
+  {
+    "id": "rev-13",
+    "author": "Vlad Gheorghiu",
+    "rating": 5,
+    "date": "acum două săptămâni",
+    "comment": "Antricotul a ieșit de restaurant steakhouse. Fraged și aromat, gust curat.",
+    "verified": true,
+    "location": "București"
+  },
+  {
+    "id": "rev-14",
+    "author": "Anca Tudor",
+    "rating": 5,
+    "date": "acum două săptămâni",
+    "comment": "Felicitări măcelarilor! Livrarea a fost punctuală, carnea ținută la temperatură optimă.",
+    "verified": true,
+    "location": "Chiajna"
+  },
+  {
+    "id": "rev-15",
+    "author": "Alexandru Pavel",
+    "rating": 5,
+    "date": "acum două săptămâni",
+    "comment": "Recomand cârnații de Pleșcoi și ceafa marinată. Absolut delicioase!",
+    "verified": true,
+    "location": "Militari Residence"
+  },
+  {
+    "id": "rev-16",
+    "author": "Diana Munteanu",
+    "rating": 5,
+    "date": "acum două săptămâni",
+    "comment": "Ambalat igienic și cântărit cinstit. Este locul ideal pentru aprovizionarea familiei.",
+    "verified": true,
+    "location": "Chiajna"
+  },
+  {
+    "id": "rev-17",
+    "author": "Sorin Nistor",
+    "rating": 5,
+    "date": "acum 18 zile",
+    "comment": "Calitate românească adevărată. Micii au fost fragezi și plini de gust.",
+    "verified": true,
+    "location": "Militari Residence"
+  },
+  {
+    "id": "rev-18",
+    "author": "Carmen Neagu",
+    "rating": 5,
+    "date": "acum 20 zile",
+    "comment": "Super mulțumită de comunicarea rapidă pe WhatsApp și de atenția la detalii a echipei CARNION.",
+    "verified": true,
+    "location": "Chiajna"
+  },
+  {
+    "id": "rev-19",
+    "author": "Dan Petrescu",
+    "rating": 5,
+    "date": "acum 22 zile",
+    "comment": "Mușchiulețul de porc și pieptul de pui au fost excelente. Fragede și fără surplus de grăsime.",
+    "verified": true,
+    "location": "Militari Residence"
+  },
+  {
+    "id": "rev-20",
+    "author": "Roxana Preda",
+    "rating": 5,
+    "date": "acum o lună",
+    "comment": "O carmangerie de top în Militari Residence! Se vede pasiunea și respectul pentru client.",
+    "verified": true,
+    "location": "Chiajna"
+  }
+]
